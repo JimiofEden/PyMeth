@@ -2,7 +2,7 @@ Adam Hollock
 January 18th 2013
 
 
-This file is a compilation of the matlab .m files that were created for a 10 weekgraduate level numerical analysis course.
+This file is a compilation of the matlab .m files that were created for a 10 week graduate level numerical analysis course.
 Since these files were homework based, there are a group of functions with a wrap-up homework file at the end of each group.
 The files should be self-sufficient in how to set them up, but if any ambiguity exists, the homework files should clarify
 and show examples for how each function is called. Using Matlab's publish feature on the homework files will create a tidy html
